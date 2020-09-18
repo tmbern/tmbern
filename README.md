@@ -9,4 +9,4 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/trent-bernhise
 
 [![Trent's github stats](https://github-readme-stats.vercel.app/api?username=tmbern&count_private=true&hide=stars&show_icons=true&theme=chartreuse-dark)](https://github.com/tmbern/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmberna&layout=compact)](https://github.com/tmbern/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmbern&layout=compact)](https://github.com/tmbern/github-readme-stats)
