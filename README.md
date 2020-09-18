@@ -5,3 +5,6 @@ Hi, I'm Trent! I'm an accounting and finance professional that is new to the dat
 
 You can find some passion projects Ive done [here](https://tmbern.github.io/)  
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/trent-bernhisel-0024/)
+
+
+[![Trent's github stats](https://github-readme-stats.vercel.app/api?username=tmbern)](https://github.com/tmbern/github-readme-stats)
