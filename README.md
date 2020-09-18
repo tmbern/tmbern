@@ -11,4 +11,3 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/trent-bernhise
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmbern&layout=compact)](https://github.com/tmbern/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tmbern&repo=github-readme-stats)](https://github.com/tmbern/github-readme-stats)
